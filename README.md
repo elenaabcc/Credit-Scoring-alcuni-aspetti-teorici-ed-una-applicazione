@@ -1,6 +1,6 @@
 # Credit-Scoring-alcuni-aspetti-teorici-ed-una-applicazione
-Elena Martarello \
-Questa applicazione pratica usa il dataset "Statlog (German Credit Data) Data Set" 1 disponibile al seguente link: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data).
+### A cura di Elena Martarello 
+Questa applicazione pratica usa il dataset "Statlog (German Credit Data) Data Set"  disponibile al seguente link: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data).
 Non necessario scaricare il dataset in oggetto. 
 
 \
@@ -42,4 +42,4 @@ sono i seguenti:
 **RColorBrewer4:** 1.1-2, R (≥ 2.0.0), 2014-12-07, Erich Neuwirth [aut, cre], Erich Neuwirth <erich.neuwirth at univie.ac.at>, Apache License 2.0, Graphics, Spatial, RColorBrewer results
 
 
-ROCR: visualizing classifier performance in R,T. Sing and O. Sander and N. Beerenwinkel and T. Lengauer, 2005, Bioinformatics, 21, 20, http://rocr.bioinf.mpi-sb.mpg.de
+**ROCR:** visualizing classifier performance in R,T. Sing and O. Sander and N. Beerenwinkel and T. Lengauer, 2005, Bioinformatics, 21, 20, http://rocr.bioinf.mpi-sb.mpg.de

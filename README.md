@@ -14,13 +14,13 @@ L’ordine di esecuzione dei file Rscript è la seguente:
 
 
 Oltre ai pacchetti base installati di default in RStudio saranno necessari altri pacchetti.
-I pacchetti di cui si avrà bisogno nel file “DescriptiveStat4GermanDataCredit.R”
+I pacchetti dei quali si avrà bisogno nel file “DescriptiveStat4GermanDataCredit.R”
 sono i seguenti:
 -	epiDisplay2
 -	corrplot3
 -	RColorBrewer4
 
-I pacchetti di cui si avrà bisogno nel file “RegressionModels.R”
+I pacchetti dei quali si avrà bisogno nel file “RegressionModels.R”
 sono i seguenti:
 -	ROCR5
 
